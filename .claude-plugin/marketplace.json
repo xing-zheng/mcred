@@ -1,0 +1,14 @@
+{
+  "name": "mcred",
+  "description": "mcred, the seat-side credential CLI, as a Claude Code plugin.",
+  "owner": {
+    "name": "xing-zheng"
+  },
+  "plugins": [
+    {
+      "name": "mcred",
+      "source": "./source",
+      "description": "Install mcred on this seat, set up its root key, join or start a repository's store, and use its credentials without printing them."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mcred",
+  "version": "3.0.1",
+  "description": "Install mcred on this seat, set up its root key, join or start a repository's store, and use its credentials without printing them.",
+  "author": {
+    "name": "xing-zheng"
+  },
+  "homepage": "https://github.com/xing-zheng/mcred",
+  "repository": "https://github.com/xing-zheng/mcred"
+}
